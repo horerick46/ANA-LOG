@@ -1,4 +1,4 @@
-# ANA-LOGA 
+# ANA-LOG
 A software program called an Anomaly Predictor and Log Analyzer Tool is intended to spot odd trends, 
 or anomalies, in system logs and forecast probable problems or system breakdowns.
 Important attributes:
